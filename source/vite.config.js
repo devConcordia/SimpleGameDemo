@@ -11,6 +11,7 @@ export default defineConfig({
 	emptyOutDir: true,
     outDir: '../docs/'
   },
+  base: './',
   plugins: [
     vue(),
     vueDevTools(),
