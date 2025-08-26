@@ -9,7 +9,7 @@ export default defineConfig({
   build: {
 	minify: true, //false,
 	emptyOutDir: true,
-    outDir: '../dist/'
+    outDir: '../docs/'
   },
   plugins: [
     vue(),
