@@ -1,6 +1,6 @@
 # Demo
 
-
+Acesse a pagina da demo [nesse link](https://devconcordia.github.io/SimpleGameDemo).
 
 <!--
 
